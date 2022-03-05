@@ -1,0 +1,36 @@
+:root {
+    --lightblue: #c3e1eb;
+    --bluegreen: #002400;
+    --mustard: #F4B942;
+    --orange: #D66B31; 
+    --lightgreen: #CDD5B7;
+}
+
+#navigation {
+    background-color: var(--lightblue) !important;
+}
+
+.navbar-brand {
+    color: var(--bluegreen) !important;
+    font-size: 35px;
+}
+
+#name-header {
+    background-color: var(--bluegreen);
+    color: white;
+}
+
+#role-header {
+    color: var(--mustard);
+    font-size: 13px;
+}
+
+#profile-card {
+ background-color: var(--bluegreen) !important;
+ border-style: groove;
+ border-color: var(--bluegreen);
+}
+
+#list-icon {
+    color: var(--orange);
+}

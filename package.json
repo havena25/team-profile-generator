@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/havena25/team-profile-generator#readme",
   "dependencies": {
+    "bootstrap-icons": "^1.8.1",
     "inquirer": "^8.2.0"
   },
   "devDependencies": {
